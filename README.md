@@ -3,6 +3,8 @@
 
 A fun and simple two-player Ping Pong game built using Python's Turtle Graphics module! Get ready to experience the thrill of table tennis with a digital twist.
 
+<img width="863" alt="Screenshot 2024-12-10 at 10 37 20 PM" src="https://github.com/user-attachments/assets/af4ce3af-f375-40e7-99ad-701fbf336a1c">
+
 ---
 
 ## 🔄 Features

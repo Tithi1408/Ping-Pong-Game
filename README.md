@@ -45,7 +45,7 @@ A fun and simple two-player Ping Pong game built using Python's Turtle Graphics 
 2. Navigate to the folder where the script is saved.
 3. Run the following command:
    ```bash
-   python ping_pong_game.py
+   python main.py
    ```
 4. Enjoy hours of ping pong fun! 🏓
 
